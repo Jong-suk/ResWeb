@@ -18,7 +18,7 @@
   }
   
   .share-btn-container a i {
-    font-size: 30px;
+    font-size: 20px;
   }
   
   .share-btn-container a {
@@ -64,12 +64,12 @@
       width: 100%;
       flex-direction: row;
       box-shadow: 4px 0 8px rgba(0, 0, 0, 0.3);
-      padding: 16px 0;
+      padding: 10px 0;
       justify-content: center;
     }
   
     .share-btn-container a {
-      margin: 0 32px;
+      margin: 0 20px;
     }
   }
 
